@@ -11,6 +11,34 @@ Hostname
 Admin UI
 :   [http://openwrt.local](http://openwrt.local)
 
+## Google Wifi Pucks
+
+See [OpenWrt on Google Wifi](https://github.com/kkestell/openwrt-on-google-wifi) for more information.
+
+### Ada
+
+Hostname
+:    `ada.local`
+
+IP Address
+:    `192.168.1.1`
+
+### Fez
+
+Hostname
+:    `fez.local`
+
+IP Address
+:    `192.168.1.2`
+
+### Rio
+
+Hostname
+:    `rio.local`
+
+IP Address
+:    `192.168.1.3`
+
 ## Proxmox Host
 
 Model
