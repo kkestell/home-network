@@ -33,17 +33,6 @@ See [OpenWrt on Google Wifi](https://github.com/kkestell/openwrt-on-google-wifi)
 <tr><td>IP Address</td><td><code>192.168.1.3</code></td></tr>
 </table>
 
-## Proxmox Host
-
-<table>
-<tr><td>Model</td><td>Lenovo ThinkCentre</td></tr>
-<tr><td>CPU</td><td>Intel Core i5-4570T @ 2.9GHz</td></tr>
-<tr><td>RAM</td><td>8GB</td></tr>
-<tr><td>IP Address</td><td><code>10.0.0.2</code></td></tr>
-<tr><td>Hostname</td><td><code>pve.local</code></td></tr>
-<tr><td>Admin UI</td><td><a href="https://pve.local:8006">https://pve.local:8006</a></td></tr>
-</table>
-
 ## NAS
 
 <table>
@@ -56,6 +45,17 @@ See [OpenWrt on Google Wifi](https://github.com/kkestell/openwrt-on-google-wifi)
 <tr><td>Root Mount</td><td><code>/</code> on sda2 (ext4)</td></tr>
 <tr><td>Archive Mount</td><td><code>/mnt/archive</code> on sdd1 (ext4)</td></tr>
 <tr><td>Media Mount</td><td><code>/mnt/media</code> on ZFS pool</td></tr>
+</table>
+
+## Proxmox Host
+
+<table>
+<tr><td>Model</td><td>Lenovo ThinkCentre</td></tr>
+<tr><td>CPU</td><td>Intel Core i5-4570T @ 2.9GHz</td></tr>
+<tr><td>RAM</td><td>8GB</td></tr>
+<tr><td>IP Address</td><td><code>10.0.0.2</code></td></tr>
+<tr><td>Hostname</td><td><code>pve.local</code></td></tr>
+<tr><td>Admin UI</td><td><a href="https://pve.local:8006">https://pve.local:8006</a></td></tr>
 </table>
 
 ## Proxmox VMs and Containers 
